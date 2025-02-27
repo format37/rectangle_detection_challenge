@@ -1,0 +1,19 @@
+{
+    "image_count": 10,
+    "image_sizes": [
+        [200, 300],
+        [300, 400],
+        [400, 500],
+        [1080, 1920]
+    ],
+    "rectangle_min_size": {
+        "height": 50,
+        "width": 50
+    },
+    "rectangle_max_scale": 0.5,
+    "noise": {
+        "enabled": true,
+        "sigma": 10
+    },
+    "output_folder": "images"
+}
